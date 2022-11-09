@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Tangerine&family=Xanh+Mono&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Quicksand;
+}
+
+body p {
+    font-family: Tangerine;
+    font-size: 200%;
+}
+
