@@ -15,3 +15,32 @@ body p {
     font-size: 200%;
 }
 
+/*headings*/
+
+h1, h2 {
+    font-family: Xanh, sans-serif;
+    text-transform: uppercase;
+    color: rgb(227, 41, 41);
+    letter-spacing: 5px;
+}
+
+#club_logo {
+    float: left;
+    font-size: 270%;
+    margin-left: 25px;
+}
+
+/*Header navigation*/
+#nav_menu {
+    font-size: 115%;
+    text-align: right;
+    
+}
+
+#nav_menu li {
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 20px;
+    
+}
+
