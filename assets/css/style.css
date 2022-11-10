@@ -8,6 +8,7 @@
 
 body {
     font-family: Quicksand;
+    color: rgb(45, 67, 85);
 }
 
 body p {
@@ -28,19 +29,36 @@ h1, h2 {
     float: left;
     font-size: 270%;
     margin-left: 25px;
+    line-height: 75px;
 }
 
 /*Header navigation*/
 #nav_menu {
+    height: 50px;
     font-size: 115%;
     text-align: right;
-    
+    color: inherit;
+    line-height: 75px;
 }
 
 #nav_menu li {
     display: inline-block;
     list-style-type: none;
     margin-right: 20px;
+    border-right: 1px solid rgb(38, 44, 47);
+    padding-right: 10px;
+}
+
+#nav_menu a {
+    text-decoration: none;
+    color: inherit;
     
 }
 
+#nav_menu a:hover {
+    border-bottom: 1px solid rgb(45, 67, 85);
+}
+
+.active {
+    border-bottom: 1px solid rgb(45, 67, 85);
+}
