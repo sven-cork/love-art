@@ -29,7 +29,7 @@ h1, h2 {
     float: left;
     font-size: 270%;
     margin-left: 25px;
-    line-height: 75px;
+    line-height: 50px;
 }
 
 /*Header navigation*/
@@ -38,17 +38,40 @@ h1, h2 {
     font-size: 115%;
     text-align: right;
     color: inherit;
-    line-height: 75px;
-    padding-bottom: 25px;
+    line-height: 50px;
+    margin-top: 45px;
+    margin-bottom: 45px;
 }
+
+/*nav_menu copy
+#nav_menu {
+    height: 50px;
+    font-size: 115%;
+    text-align: right;
+    color: inherit;
+    line-height: 75px;
+    
+    margin-top: 45px;
+    margin-bottom: 45px;
+}*/
+
 
 #nav_menu li {
     display: inline-block;
     list-style-type: none;
     margin-right: 30px;
     border-right: 1px solid rgb(38, 44, 47);
-    padding-right: 20px;
+    padding-right: 30px;
 }
+
+/*#nav_menu li copy
+#nav_menu li {
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 30px;
+    border-right: 1px solid rgb(38, 44, 47);
+    padding-right: 30px;
+}*/
 
 #nav_menu a {
     text-decoration: none;
@@ -67,5 +90,5 @@ h1, h2 {
 #hero-image {
     height: 450px;
     width: 100%;
-    background: url('../images/hero-image-full.jpeg') no-repeat center center;
+    background: url('../images/hero-image6.jpg') no-repeat center center;
 }
