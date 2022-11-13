@@ -25,10 +25,10 @@ h1, h2 {
     letter-spacing: 5px;
 }
 
-#club_logo {
+#community_logo {
     float: left;
     font-size: 270%;
-    margin-left: 25px;
+    margin-left: 30px;
     line-height: 50px;
 }
 
@@ -87,8 +87,67 @@ h1, h2 {
     border-bottom: 1px solid rgb(45, 67, 85);
 }
 
+/*hero image including cover text*/
+
+#hero-outmost {
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+    position: relative;
+}
+
 #hero-image {
     height: 450px;
     width: 100%;
     background: url('../images/hero-image6.jpg') no-repeat center center;
+}
+
+#hero-text, #hero-text h2 {
+    color:white;
+}
+
+#hero-text {
+    font-family: Quicksand, sans-serif;
+    font-size: 120%;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+    background-color: rgb(173, 67, 67, .7);
+
+    /*background-color copy
+    background-color: rgb(173, 67, 67, .7);*/
+
+    bottom: 30px;
+    right: 100px;
+
+    position: absolute;
+}
+
+#community-content {
+    height: 600px;    
+}
+
+#community-content-left {
+    padding-top: 20px;
+    float: left;
+    width: 33%;
+}
+
+#community-content-right {
+    padding-top: 20px;
+    float: right;
+    width: 33%;
+}
+
+#community-content-center {
+    padding-top: 20px;
+    width: 33%;
+    margin: 0 auto;
 }
