@@ -91,13 +91,13 @@ h1, h2 {
 
 #hero-outmost {
     width: 100%;
-    height: 450px;
+    height: 600px;
     overflow: hidden;
     position: relative;
 }
 
 #hero-image {
-    height: 450px;
+    height: 600px;
     width: 100%;
     background: url('../images/hero-image6.jpg') no-repeat center center;
 }
@@ -131,23 +131,31 @@ h1, h2 {
 }
 
 #community-content {
-    height: 600px;    
+    height: 450px;
+    margin-top: 20px;   
+    margin-bottom: 20px; 
 }
 
 #community-content-left {
     padding-top: 20px;
     float: left;
     width: 33%;
+    height: 450px;
+    background: url(../images/drawing-walk-full.jpg) no-repeat center center;
 }
 
 #community-content-right {
     padding-top: 20px;
     float: right;
     width: 33%;
+    height: 450px;
+    background: url(../images/quiz-full.jpg) no-repeat center center;
 }
 
 #community-content-center {
     padding-top: 20px;
     width: 33%;
     margin: 0 auto;
+    height: 450px;
+    background: url(../images/paint-group-full.jpg) no-repeat center center;
 }
