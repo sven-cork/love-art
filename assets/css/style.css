@@ -130,6 +130,8 @@ h1, h2 {
     position: absolute;
 }
 
+/*Site content section styling*/
+
 #community-content {
     height: 450px;
     margin-top: 20px;   
@@ -150,6 +152,18 @@ h1, h2 {
     width: 33%;
     height: 450px;
     background: url(../images/quiz-full.jpg) no-repeat center center;
+}
+
+.community-span {
+    display: inline-block;
+    margin-top: 125px;
+    text-align: center;
+    color: #fff;
+    font-family: Quicksand, sans-serif;
+    font-size: 150%;
+    font-weight: 700;
+    width: 50%;
+
 }
 
 #community-content-center {
