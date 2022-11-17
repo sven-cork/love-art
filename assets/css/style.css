@@ -207,3 +207,29 @@ footer i {
     margin: 1%;
     padding: 8%;
 }
+
+/*Community feedback main page*/
+#community-feedback-section {
+    height: 450px;
+    padding: 5%;
+    text-align: center;
+    margin-top: 7%;
+}
+
+#community-feedback-section h2 span {
+    font-family: Quicksand, sans-serif;
+    font-size: 120%;
+    font-weight: 700;
+    letter-spacing: 3px;
+    color: rgb(45, 67, 85);
+}
+
+#community-feedback-section span {
+    display: block;
+    margin-bottom: 3%;
+    font-family: Tangerine, sans-serif;
+    font-size: 240%;
+    font-weight: 500;
+    color: rgba(57, 82, 103, 0.6);
+}
+
