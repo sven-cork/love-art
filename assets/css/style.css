@@ -187,3 +187,23 @@ h1, h2 {
     height: 450px;
     background: url(../images/paint-group-full.jpg) no-repeat center center;
 }
+
+/*Footer section*/
+footer {
+    height: 100px;
+}
+
+footer ul {
+    text-align: center;
+}
+
+footer li {
+    display: inline;
+}
+
+footer i {
+    color: rgb(96, 38, 13);
+    font-size: 150%;
+    margin: 1%;
+    padding: 8%;
+}
