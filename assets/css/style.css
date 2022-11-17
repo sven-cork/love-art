@@ -213,7 +213,7 @@ footer i {
     height: 450px;
     padding: 5%;
     text-align: center;
-    margin-top: 7%;
+    margin-top: 5%;
 }
 
 #community-feedback-section h2 span {
@@ -230,6 +230,6 @@ footer i {
     font-family: Tangerine, sans-serif;
     font-size: 240%;
     font-weight: 500;
-    color: rgba(57, 82, 103, 0.6);
+    color: rgba(57, 82, 103, 0.9);
 }
 

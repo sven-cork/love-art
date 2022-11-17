@@ -1,3 +1,12 @@
+1. Love art intro and what it is about.
+
+2. Screenshots from Am I Responsive (https://ui.dev/amiresponsive) demonstrating site on different sized devices.
+
+3. Feature description of all main sections of all site pages including screenshots. Comment what the feature offers and how it benefits
+the user.
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome sven-cork,
