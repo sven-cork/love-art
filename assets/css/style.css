@@ -9,6 +9,7 @@
 body {
     font-family: Quicksand;
     color: rgb(45, 67, 85);
+    background-color: rgb(255, 253, 251);
 }
 
 /*body p {
@@ -233,3 +234,14 @@ footer i {
     color: rgba(57, 82, 103, 0.9);
 }
 
+#artwork-pictures {
+    column-count: 3;
+    line-height: 5px;
+    margin: 10%;
+}
+
+#artwork-pictures > img {
+    margin: 30px 30px 30px 30px;
+    column-gap:10px;
+    row-gap: 20px;
+}
