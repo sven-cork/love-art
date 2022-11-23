@@ -217,6 +217,7 @@ footer i {
     margin-top: 5%;
 }
 
+
 #community-feedback-section h2 span {
     font-family: Quicksand, sans-serif;
     font-size: 120%;
@@ -234,6 +235,8 @@ footer i {
     color: rgba(57, 82, 103, 0.9);
 }
 
+/*member-artwork page*/
+
 #artwork-pictures {
     column-count: 3;
     line-height: 5px;
@@ -244,4 +247,29 @@ footer i {
     margin: 30px 30px 30px 30px;
     column-gap:10px;
     row-gap: 20px;
+}
+
+/*event enrollment page*/
+
+#outer-div {
+    height: 450px;
+}
+
+#enroll-div-left {
+    width: 33%;
+    float: left;
+    background-color: red;
+}
+
+#enroll-div-right {
+    width: 33%;
+    float: right;
+    background-color: blue;
+}
+
+#enroll-div-center {
+    width: 33%;
+    float: left;
+    background-color: yellow;
+    margin: 0 auto;
 }
