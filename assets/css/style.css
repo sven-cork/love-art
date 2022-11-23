@@ -252,6 +252,11 @@ footer i {
 /*event enrollment page*/
 
 #outer-div {
+    height: 900px;
+    background: url(../images/enrollment.jpeg) no-repeat center center;
+}
+
+#location-div {
     height: 450px;
 }
 

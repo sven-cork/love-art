@@ -17,13 +17,13 @@
         <nav> 
             <ul id="nav_menu">
                 <li>
-                    <a href="index.html" class="active">Home</a>
+                    <a href="index.html">Home</a>
                 </li>
                 <li>
                     <a href="member-artwork.html">Member Artwork</a>
                 </li>
                 <li>
-                    <a href="event-enrollment.html">Event Enrollment</a>
+                    <a href="event-enrollment.html" class="active">Event Enrollment</a>
                 </li>
                 <li>
                     <a href="quiz.html">Quiz of the month</a>
@@ -33,11 +33,22 @@
     </header>
         
     <main>
-        <div>
+        <div id="outer-div">
             <div>
+                <form method="post" action="https://formdump.codeinstitute.net/" target="_blank">
+                    <fieldset>
+                        <legend>Signup details</legend>
+                        <label for="fname">First name:</label>
+                        <input type="text" id="fname" name="fname"><br><br>
+                        <label for="lname">Last name:</label>
+                        <input type="text" id="lname" name="lname"><br><br>
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email"><br><br>
+                    </fieldset>
+                </form>
 
             </div>
-            <div id="outer-div">
+            <div id="location-div">
                 <div id="enroll-div-left">Left</div>
                 <div id="enroll-div-right">Right</div>
                 <div id="enroll-div-center">Center</div>
