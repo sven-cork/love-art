@@ -254,6 +254,26 @@ footer i {
 #outer-div {
     height: 900px;
     background: url(../images/enrollment.jpeg) no-repeat center center;
+    clear: left;
+    background-size: cover;
+    background-position: 75% 50%;
+}
+
+#signup-form {
+    height: 450px;
+    margin: 150px;
+    background-color: rgba(57, 82, 103, 0.8);
+    color: white;
+    width: 300px;
+    position: absolute;
+    padding: 20px;
+}
+
+.field-input {
+    background: transparent;
+    border-radius: 2px;
+    border: white solid 1px;
+    width: 100%;
 }
 
 #location-div {
