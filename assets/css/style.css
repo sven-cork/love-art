@@ -258,7 +258,7 @@ footer i {
     background-size: cover;
     background-position: 75% 50%;
     position: relative;
-    top: 0;
+    padding-top: 100px;
 }
 
 #enrollment-form-div {
@@ -268,13 +268,12 @@ footer i {
 
 .enrollment-form {
     height: 300px;
-    margin: 150px;
+    padding: 50px;
     background-color: rgba(57, 82, 103, 0.8);
     color: white;
     width: 300px;
     position: relative;
-    padding: 20px;
-    top: 150px;
+    margin-left: 150px;
 }
 
 .enrollment-form h2 {
@@ -292,27 +291,25 @@ footer i {
 
 #location-div {
     height: 300px;
-    clear: both;
-    position: absolute;
     bottom: 0px;
     width: 100%;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 
-#enroll-div-left {
+#location-div-left {
     width: 33%;
-    /*float: left;*/
-    background-color: red;
+    background-color: red; 
 }
 
-#enroll-div-right {
+#location-div-right {
     width: 33%;
-    /*float: right;*/
     background-color: blue;
 }
 
-#enroll-div-center {
+#location-div-center {
     width: 33%;
-    /*float: left;*/
     background-color: yellow;
-    margin: 0 auto;
 }
