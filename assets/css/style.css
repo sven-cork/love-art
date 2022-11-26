@@ -237,16 +237,30 @@ footer i {
 
 /*member-artwork page*/
 
+#artwork-div {
+    width: 100%;
+    padding-top: 75px;
+}
+
+#artwork-div h2 {
+    font-family: Xanh, sans-serif;
+    text-align: center;
+}
+
 #artwork-pictures {
     column-count: 3;
     line-height: 5px;
-    margin: 10%;
+    margin: 50px;
 }
 
 #artwork-pictures > img {
     margin: 30px 30px 30px 30px;
     column-gap:10px;
     row-gap: 20px;
+}
+
+#artwork-pictures {
+    text-align: center;
 }
 
 /*event enrollment page*/
