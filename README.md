@@ -5,7 +5,7 @@ This is a community art **website** for people located in Munster Ireland and fr
 ## Brief introduction, purpose and who it for
 
 ### Table of contents
-- [Features](#features)
+- #Features
 - Testing
   - Validation
   - Responsiveness
@@ -13,7 +13,7 @@ This is a community art **website** for people located in Munster Ireland and fr
 - Credits
 [EFF](https://eff.org)
 
-Features
+[Features](#features)
       Logo and navigation bar
       Website pages
       
