@@ -44,18 +44,6 @@ h1, h2 {
     margin-bottom: 45px;
 }
 
-/*nav_menu copy
-#nav_menu {
-    height: 50px;
-    font-size: 115%;
-    text-align: right;
-    color: inherit;
-    line-height: 75px;
-    
-    margin-top: 45px;
-    margin-bottom: 45px;
-}*/
-
 
 #nav_menu li {
     display: inline-block;
@@ -65,19 +53,9 @@ h1, h2 {
     padding-right: 30px;
 }
 
-/*#nav_menu li copy
-#nav_menu li {
-    display: inline-block;
-    list-style-type: none;
-    margin-right: 30px;
-    border-right: 1px solid rgb(38, 44, 47);
-    padding-right: 30px;
-}*/
-
 #nav_menu a {
     text-decoration: none;
-    color: inherit;
-    
+    color: inherit;    
 }
 
 #nav_menu a:hover {
@@ -119,15 +97,9 @@ h1, h2 {
     padding-top: 30px;
     padding-bottom: 10px;
     padding-left: 10px;
-
     background-color: rgb(173, 67, 67, .7);
-
-    /*background-color copy
-    background-color: rgb(173, 67, 67, .7);*/
-
     bottom: 30px;
     right: 100px;
-
     position: absolute;
 }
 
@@ -346,3 +318,30 @@ footer i {
     height: 100%;
 }
 
+/*For medium display sizes 1050 pixels and below*/
+@media screen and (max-width: 1050px) {
+    #artwork-pictures {
+        column-count: 2;
+        line-height: 5px;
+        margin: 50px;
+    }
+
+}
+
+/*For smaller screen sizes 750 pixels and below*/ 
+@media screen and (max-width: 750px) {
+    #artwork-pictures {
+        column-count: 1;
+        line-height: 5px;
+        margin: 50px;
+    }
+
+    #nav-menu {
+        float: left;
+        clear: left;
+        margin-left: 25px;
+        margin-bottom: 15px;
+        line-height: 15px;
+    }
+
+}
