@@ -325,15 +325,16 @@ footer i {
         line-height: 5px;
         margin: 50px;
     }
-
-}
-
-/*For smaller screen sizes 750 pixels and below*/ 
-@media screen and (max-width: 750px) {
     #artwork-pictures {
-        column-count: 1;
-        line-height: 5px;
-        margin: 50px;
+        width: 100%;
+        margin-top: 25px;
+        float: left;
+    }
+
+    #artwork-div {
+        width: 100%;
+        padding-top: 25px;
+        float: left;
     }
 
     #nav-menu {
@@ -342,6 +343,47 @@ footer i {
         margin-left: 25px;
         margin-bottom: 15px;
         line-height: 15px;
+    }
+
+    #nav-menu li {
+        display: inline-block;
+        list-style-type: none;
+        margin-right: 10px;
+        padding-right: 10px;
+
+    }
+
+}
+
+/*For smaller screen sizes 750 pixels and below*/ 
+@media screen and (max-width: 750px) {
+    #artwork-pictures {
+        column-count: 1;
+        line-height: 5px;
+        margin: 5px;
+    }
+
+    #artwork-pictures > img {
+        margin: 10px 1px 10px 1px;
+        column-gap:10px;
+        row-gap: 20px;
+    }
+
+    #nav-menu {
+        float: left;
+        clear: left;
+        font-size: 115%;
+        margin-left: 10px;
+        margin-bottom: 15px;
+        line-height: 15px;
+    }
+
+    #nav-menu li {
+        display: inline-block;
+        list-style-type: none;
+        margin-right: 10px;
+        padding-right: 10px;
+
     }
 
 }
