@@ -34,7 +34,7 @@ h1, h2 {
 }
 
 /*Header navigation*/
-#nav_menu {
+#nav-menu {
     height: 50px;
     font-size: 115%;
     text-align: right;
@@ -45,7 +45,7 @@ h1, h2 {
 }
 
 
-#nav_menu li {
+#nav-menu li {
     display: inline-block;
     list-style-type: none;
     margin-right: 30px;
@@ -53,12 +53,12 @@ h1, h2 {
     padding-right: 30px;
 }
 
-#nav_menu a {
+#nav-menu a {
     text-decoration: none;
     color: inherit;    
 }
 
-#nav_menu a:hover {
+#nav-menu a:hover {
     border-bottom: 1px solid rgb(45, 67, 85);
 }
 
