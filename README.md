@@ -11,8 +11,13 @@ This is a community art **website** for people located in Munster Ireland and fr
   - Responsiveness
   - Manual testing
 - Credits
-[EFF](https://eff.org)
 
+### Features
+
+
+### Testing
+- [W3 HTML Checker](https://validator.w3.org/nu/#textarea) was used repeatedly throughout the build of Love Art website to test all markup.  
+- [W3 CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used repeatedly to test styling syntax for style.css.
 
       
 Testing
@@ -21,12 +26,14 @@ Testing
       CSS
       Lighthouse
 
-Credits
-  
+1. Love art intro and what it is about.
+
 2. Screenshots from Am I Responsive (https://ui.dev/amiresponsive) demonstrating site on different sized devices.
 
 3. Feature description of all main sections of all site pages including screenshots. Comment what the feature offers and how it benefits
 the user.
+
+
 
 
 
