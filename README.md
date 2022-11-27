@@ -1,5 +1,30 @@
-1. Love art intro and what it is about.
+# Love art intro and what it is about.
 
+This is a community art **website** for people located in Munster Ireland and friends further *afield*. 
+
+## Brief introduction, purpose and who it for
+
+### Table of contents
+- [Features](#features)
+- Testing
+  - Validation
+  - Responsiveness
+  - Manual testing
+- Credits
+[EFF](https://eff.org)
+
+Features
+      Logo and navigation bar
+      Website pages
+      
+Testing
+      Validators
+      HMTL
+      CSS
+      Lighthouse
+
+Credits
+  
 2. Screenshots from Am I Responsive (https://ui.dev/amiresponsive) demonstrating site on different sized devices.
 
 3. Feature description of all main sections of all site pages including screenshots. Comment what the feature offers and how it benefits
