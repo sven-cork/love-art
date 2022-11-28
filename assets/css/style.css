@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    box-sizing: border-box;
 }
 
 body {
@@ -163,11 +164,12 @@ h1, h2 {
 
 /*Footer section*/
 footer {
-    height: 100px;
+    height: 75px;
 }
 
 footer ul {
     text-align: center;
+    height: inherit;
 }
 
 footer li {
@@ -239,7 +241,7 @@ footer i {
 /*event enrollment page*/
 
 #outer-div {
-    height: 900px;
+    height: 100%;
     background: url(../images/enrollment.jpeg) no-repeat center center;
     clear: left;
     background-size: cover;
@@ -278,10 +280,8 @@ footer i {
 }
 
 #location-div {
-    height: 300px;
     width: 100%;
     margin-bottom: 20px;
-    position: absolute;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -399,10 +399,8 @@ footer i {
     }
 
     #location-div {
-        height: 300px;
         margin-bottom: 20px;
         width: 100%;
-        position: absolute;
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -490,14 +488,17 @@ footer i {
         left: 0;
     }
 
+    #outer-div {
+        padding-top: 50px;
+    }
+
     .enrollment-form {
         height: 300px;
-        padding: 50px;
+        padding: 30px;
         background-color: rgba(57, 82, 103, 0.8);
         color: white;
         width: 300px;
-        left: 0;
-        margin-left: 10px;
+        margin-left: 0;        
     }
     
 
