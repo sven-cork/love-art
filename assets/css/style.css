@@ -247,7 +247,7 @@ footer i {
     background-size: cover;
     background-position: 75% 50%;
     position: relative;
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 #enrollment-form-div {
@@ -257,7 +257,7 @@ footer i {
 }
 
 .enrollment-form {
-    height: 300px;
+    height: 400px;
     padding: 50px;
     background-color: rgba(57, 82, 103, 0.8);
     color: white;
@@ -469,8 +469,8 @@ footer i {
 
     #community-feedback-section h2 span {
         font-family: Quicksand, sans-serif;
-        font-size: 100%;
-        font-weight: 500;
+        font-size: 120%;
+        font-weight: 600;
         letter-spacing: 3px;
         color: rgb(45, 67, 85);
     }
@@ -479,7 +479,7 @@ footer i {
         display: block;
         margin-bottom: 3%;
         font-family: Tangerine, sans-serif;
-        font-size: 240%;
+        font-size: 200%;
         font-weight: 500;
         color: rgba(57, 82, 103, 0.9);
     }
