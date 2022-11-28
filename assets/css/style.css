@@ -182,6 +182,7 @@ footer i {
 }
 
 /*Community feedback main page*/
+
 #community-feedback-section {
     height: 450px;
     padding: 5%;
@@ -250,6 +251,7 @@ footer i {
 #enrollment-form-div {
     width: 100%;
     height: 450px;
+    padding-bottom: 30px;
 }
 
 .enrollment-form {
@@ -277,8 +279,8 @@ footer i {
 
 #location-div {
     height: 300px;
-    bottom: 0px;
     width: 100%;
+    margin-bottom: 20px;
     position: absolute;
     display: flex;
     flex-direction: row;
@@ -300,8 +302,10 @@ footer i {
 
 .location-div-container {
     width: 33%;
+    height: 100%;
     flex-direction: column;
     position: relative;
+    
 }
 
 .location-div-upper {
@@ -310,6 +314,7 @@ footer i {
     width: 100%; 
     height: 100%; 
     flex-direction: column;
+    margin-bottom: 10px;
 }
 
 .iframe-location {
@@ -355,19 +360,27 @@ footer i {
 
 }
 
-/*For smaller screen sizes 750 pixels and below*/ 
+
+
 @media screen and (max-width: 750px) {
     #artwork-pictures {
         column-count: 1;
         line-height: 5px;
         margin: 5px;
     }
-
+    
     #artwork-pictures > img {
         margin: 10px 1px 10px 1px;
         column-gap:10px;
         row-gap: 20px;
     }
+
+}
+
+
+/*For smaller screen sizes 750 pixels and below*/ 
+@media screen and (max-width: 750px) {
+
 
     #nav-menu {
         float: left;
@@ -383,7 +396,109 @@ footer i {
         list-style-type: none;
         margin-right: 10px;
         padding-right: 10px;
-
     }
+
+    #location-div {
+        height: 300px;
+        margin-bottom: 20px;
+        width: 100%;
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+    .location-div-container {
+        width: 100%;
+        flex-direction: column;
+        position: relative;
+        }
+
+    .iframe-location {
+        flex-grow: 1; border: none; margin: 0; padding: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    #community-content {
+        height: 450px;
+        margin-top: 10px;   
+        margin-bottom: 75px;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    #community-content-left {
+        padding-top: 10px;
+        width: 100%;
+        height: 400px;
+        background: url(../images/drawing-walk-full.jpg) no-repeat center center;
+    }
+        
+    #community-content-right {
+        padding-top: 10px;
+        width: 100%;
+        height: 400px;
+        background: url(../images/quiz-full.jpg) no-repeat center center;
+    }
+        
+    #community-content-center {
+        padding-top: 10px;
+        width: 100%;
+        height: 400px;
+        background: url(../images/paint-group-full.jpg) no-repeat center center;
+    }
+
+    .community-div {
+        margin-top: 20px;
+        margin-left: 15%;
+        margin-right: 15%;
+        text-align: center;
+        color: #fff;
+        font-family: Quicksand, sans-serif;
+        font-size: 130%;
+        font-weight: 600;
+        text-shadow: 1px 1px 2px rgb(0, 0, 0);  
+        text-decoration: none;  
+    }
+
+    #community-feedback-section {
+        height: 400px;
+        padding: 5%;
+        text-align: center;
+        margin-bottom: 0;
+    }
+
+    #community-feedback-section h2 span {
+        font-family: Quicksand, sans-serif;
+        font-size: 100%;
+        font-weight: 500;
+        letter-spacing: 3px;
+        color: rgb(45, 67, 85);
+    }
+    
+    #community-feedback-section span {
+        display: block;
+        margin-bottom: 3%;
+        font-family: Tangerine, sans-serif;
+        font-size: 240%;
+        font-weight: 500;
+        color: rgba(57, 82, 103, 0.9);
+    }
+
+    #hero-text {
+        left: 0;
+    }
+
+    .enrollment-form {
+        height: 300px;
+        padding: 50px;
+        background-color: rgba(57, 82, 103, 0.8);
+        color: white;
+        width: 300px;
+        left: 0;
+        margin-left: 10px;
+    }
+    
 
 }
