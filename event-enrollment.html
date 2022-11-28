@@ -38,11 +38,19 @@
                 <form class="enrollment-form" method="post" action="https://formdump.codeinstitute.net/" target="_blank">
                     <h2>Enroll now</h2>
                     <label for="fname">First name:</label>
-                    <input class="field-input" type="text" id="fname" name="fname"><br><br>
+                    <input class="field-input" type="text" id="fname" name="fname" required><br><br>
                     <label for="lname">Last name:</label>
-                    <input class="field-input" type="text" id="lname" name="lname"><br><br>
+                    <input class="field-input" type="text" id="lname" name="lname" required><br><br>
                     <label for="email">Email:</label>
-                    <input class="field-input" type="email" id="email" name="email"><br><br>
+                    <input class="field-input" type="email" id="email" name="email" required><br><br>
+                    <label for="option"></label>
+                    <select name="option" id="option">
+                        <option value="Walking Drawing">Walking Drawing</option>
+                        <option value="Art Class">Art Class</option>
+                        <option value="Dring Drawing">Drink Drawing</option>
+                        <option value="All">All</option>
+                    </select>
+                    <input id="enroll-button" type="submit" value="Enroll">
                 </form>
 
             </div>
