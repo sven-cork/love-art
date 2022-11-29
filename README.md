@@ -9,6 +9,7 @@ Visitors will find information about drawing walk events, art classes and drink 
 
 ## Table of contents
 - [Features](#features)
+  - [Navigation](#navigation)
 - Testing
   - Validation
   - Responsiveness
@@ -16,11 +17,12 @@ Visitors will find information about drawing walk events, art classes and drink 
 - Credits
 
 ### Features
-- Navigation 
-      - The community logo "LOVE ART" is displayed in the top left corner of navigation.
-      - The navigation bar is displayed on all pages.
-      - Links to all pages are located on left hand side for screen width above 1050px. For smaller screen sizes links drop below the Love Art logo.
-      - Page links underline when selected to guide the user with navigation.
+
+- #### Navigation 
+  - The community logo "LOVE ART" is displayed in the top left corner of navigation.
+  - The navigation bar is displayed on all pages.
+  - Links to all pages are located on left hand side for screen width above 1050px. For smaller screen sizes links drop below the Love Art logo.
+  - Page links underline when selected to guide the user with navigation.
 
 
 ![Screenshot of Love Art navigation bar](/assets/images/navigation.jpg)
