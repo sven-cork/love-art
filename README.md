@@ -26,30 +26,55 @@ Visitors will find information about drawing walk events, art classes and drink 
 ### Features
 
 - #### Navigation 
-  - The community logo "LOVE ART" is displayed in the top left corner of navigation.
+  - The community logo "LOVE ART" is displayed in the top left corner of navigation.  
   - The navigation bar is displayed on all pages.
   - Links to all pages are located on left hand side for screen width above 1050px. For smaller screen sizes links drop below the Love Art logo.
   - Page links underline when selected to guide the user with navigation.
 
+      
   ![Screenshot of Love Art navigation bar](/assets/images/navigation.jpg)
+      
 
 - #### Footer
   - The footer contains social media links for Facebook, Twitter and Instagram.
   - The links are stylised icons from Font Awesome.
   - The links are displayed on all pages for easy navigation.
 
+      
+  ![Screenshot of Love Art footer](/assets/images/footer.jpg)
+  
+
 - #### Home Page
-  - The home page contains a hero image displaying a paing palette with colours and brush, aligning with the theme of this website. 
+  - The home page contains a hero image displaying a paing palette with colours and brush, aligning with the theme of this website.
   - In the bottom right corner is a small overlay with Love Art name and slogan. The background color is matched to the overall color 
     style of the hero image.
+
+  
+  ![Screenshot of Home page Hero Image](/assets/images/hero-image-readme.jpg)
+
+  - In the middle of the Home page there are three separate sections advertising the following activites: "Drawing Walks", "Group Events" and "Quiz of the month".
+
+  ![Screenshot of Home page events section](/assets/images/home-page-events.jpg)
+
+  - At the end of the Home page there is a section displaying feedback from Art Lover event partipants.
+
+  ![Screenshot of Home page feedback section](/assets/images/feedback.jpg)
+
 
 - #### Artwork
   - The Artwork page contains a gallery of art pieces created by Love Art community members.
 
+  ![Screenshot of Artwork gallery](/assets/images/gallery.jpg)
+
 - #### Enrollment
-  - The Enrollment page features a form with fields for visitors to enter first and last name and email address.
+  - The Enrollment page features a form with fields for visitors to enter emaild address, first and last name.
+
+  ![Screenshot of Enrollment form](/assets/images/enrollment-form.jpg)
+
   - From a drop menu the visitor can choose the event to enroll.
   - Three maps are provided displaying the location for each activity including meetup date and times.
+
+  ![Screenshot of Enrollment map location](/assets/images/map-location.jpg)
 
 
 - Hero Image
