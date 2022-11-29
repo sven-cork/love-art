@@ -80,9 +80,21 @@ Visitors will find information about drawing walk events, art classes and drink 
 
 
 
+## Testing
 
-### Testing
-- [W3 HTML Checker](https://validator.w3.org/nu/#textarea) was used repeatedly throughout the build of Love Art website to test all markup.  
+### HTML Validation
+[W3 HTML Checker](https://validator.w3.org/nu/#textarea) was used repeatedly throughout the build of Love Art website to test all markup.
+
+<details>
+
+<summary>Home</summary>
+
+![W3 HTML Checker result for Home](/assets/images/home-html-checker.jpg)
+
+<details>
+
+
+
 - [W3 CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used repeatedly to test styling syntax for style.css.
 
       
