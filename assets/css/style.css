@@ -358,14 +358,9 @@ footer i {
         margin: 50px;
         width: 100%;
         margin-top: 25px;
+        padding-top: 25px;
     }
     
-    #artwork-div {
-        width: 100%;
-        padding-top: 25px;
-        float: left;
-    }
-
     #nav-menu {
         float: left;
         clear: left;
