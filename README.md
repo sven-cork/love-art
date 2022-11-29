@@ -77,8 +77,7 @@ Visitors will find information about drawing walk events, art classes and drink 
   ![Screenshot of Enrollment map location](/assets/images/map-location.jpg)
 
 
-- Hero Image
-      - The hero image 
+
 
 
 
