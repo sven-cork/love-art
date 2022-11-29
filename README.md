@@ -7,9 +7,14 @@ a gallery to enjoy member creations.
 
 Visitors will find information about drawing walk events, art classes and drink draw gatherings. Meeting times and location with embedded maps are provided.
 
+![Love Art displayed in Am I Responsive Website (https://ui.dev/amiresponsive?url=https://sven-cork.github.io/love-art)](/assets/images/responsive-website.jpg)
+
 ## Table of contents
 - [Features](#features)
   - [Navigation](#navigation)
+  - [Footer](#footer)
+  - [Home Page](#home-page)
+
 - Testing
   - Validation
   - Responsiveness
@@ -24,8 +29,17 @@ Visitors will find information about drawing walk events, art classes and drink 
   - Links to all pages are located on left hand side for screen width above 1050px. For smaller screen sizes links drop below the Love Art logo.
   - Page links underline when selected to guide the user with navigation.
 
+  ![Screenshot of Love Art navigation bar](/assets/images/navigation.jpg)
 
-![Screenshot of Love Art navigation bar](/assets/images/navigation.jpg)
+- #### Footer
+  - The footer contains social media links for Facebook, Twitter and Instagram.
+  - The links are stylised icons from Font Awesome.
+  - The links are displayed on all pages for easy navigation.
+
+- #### Home Page
+  - The 
+
+
 
 - Hero Image
       - The hero image 
