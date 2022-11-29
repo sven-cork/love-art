@@ -1,12 +1,13 @@
-# Love art intro and what it is about.
+# Love Art
+
 
 This is a community art website for people located in Munster, Ireland and friends further afield. 
 The Love Art website offers information to the art community about fun art activities to enroll in and
 a gallery to enjoy member creations.
 
-## Brief introduction, purpose and who it for
+Visitors will find information about drawing walk events, art classes and drink draw gatherings. Meeting times and location with embedded maps are provided.
 
-### Table of contents
+## Table of contents
 - [Features](#features)
 - Testing
   - Validation
