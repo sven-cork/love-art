@@ -356,13 +356,10 @@ footer i {
         column-count: 2;
         line-height: 5px;
         margin: 50px;
-    }
-    #artwork-pictures {
         width: 100%;
         margin-top: 25px;
-        float: left;
     }
-
+    
     #artwork-div {
         width: 100%;
         padding-top: 25px;
