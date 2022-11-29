@@ -14,6 +14,8 @@ Visitors will find information about drawing walk events, art classes and drink 
   - [Navigation](#navigation)
   - [Footer](#footer)
   - [Home Page](#home-page)
+  - [Artwork](#artwork)
+  - [Enrollment](#enrollment)
 
 - Testing
   - Validation
@@ -37,8 +39,17 @@ Visitors will find information about drawing walk events, art classes and drink 
   - The links are displayed on all pages for easy navigation.
 
 - #### Home Page
-  - The 
+  - The home page contains a hero image displaying a paing palette with colours and brush, aligning with the theme of this website. 
+  - In the bottom right corner is a small overlay with Love Art name and slogan. The background color is matched to the overall color 
+    style of the hero image.
 
+- #### Artwork
+  - The Artwork page contains a gallery of art pieces created by Love Art community members.
+
+- #### Enrollment
+  - The Enrollment page features a form with fields for visitors to enter first and last name and email address.
+  - From a drop menu the visitor can choose the event to enroll.
+  - Three maps are provided displaying the location for each activity including meetup date and times.
 
 
 - Hero Image
