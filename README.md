@@ -16,6 +16,10 @@ Visitors will find information about drawing walk events, art classes and drink 
 - Credits
 
 ### Features
+- Navigation 
+      - The community logo "LOVE ART" is displayed in the top left corner of navigation.
+
+![Screenshot of Love Art navigation bar](/assets/images/navigation.jpg)
 
 
 ### Testing
