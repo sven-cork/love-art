@@ -56,7 +56,7 @@ Visitors will find information about drawing walk events, art classes and drink 
 
   ![Screenshot of Home page events section](/assets/images/home-page-events.jpg)
 
-  - At the end of the Home page there is a section displaying feedback from Art Lover event partipants.
+  - At the end of the Home page there is a section displaying feedback from Art Lover event participants.
 
   ![Screenshot of Home page feedback section](/assets/images/feedback.jpg)
 
@@ -91,8 +91,15 @@ Visitors will find information about drawing walk events, art classes and drink 
 
 ![W3 HTML Checker result for Home](/assets/images/home-html-checker.jpg)
 
+</details>
+
 <details>
 
+<summary>Home</summary>
+
+![W3 HTML Checker result for Artwork](/assets/images/artwork-html-checker.jpg)
+
+</details>
 
 
 - [W3 CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used repeatedly to test styling syntax for style.css.
