@@ -45,7 +45,6 @@ h1, h2 {
     margin-bottom: 45px;
 }
 
-
 #nav-menu li {
     display: inline-block;
     list-style-type: none;
@@ -192,7 +191,6 @@ footer i {
     margin-top: 5%;
 }
 
-
 #community-feedback-section h2 span {
     font-family: Quicksand, sans-serif;
     font-size: 120%;
@@ -266,8 +264,6 @@ footer i {
     margin-left: 150px;
 }
 
-
-
 .enrollment-form h2 {
     color: white;
     margin-bottom: 15px;
@@ -298,7 +294,6 @@ footer i {
     font-size: 100%;
     color: white;
     margin-top: 20px;
-
 }
 
 #enroll-button:hover {
@@ -379,8 +374,6 @@ footer i {
 
 }
 
-
-
 @media screen and (max-width: 750px) {
     #artwork-pictures {
         column-count: 1;
@@ -399,7 +392,6 @@ footer i {
 
 /*For smaller screen sizes 750 pixels and below*/ 
 @media screen and (max-width: 750px) {
-
 
     #nav-menu {
         float: left;
@@ -520,6 +512,4 @@ footer i {
         width: 300px;
         margin-left: 0;        
     }
-    
-
 }
