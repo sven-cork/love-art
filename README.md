@@ -86,7 +86,6 @@ Visitors will find information about drawing walk events, art classes and drink 
 [W3 HTML Checker](https://validator.w3.org/nu/#textarea) was used repeatedly throughout the build of Love Art website to test all markup.
 
 <details>
-
 <summary>Home</summary>
 
 ![W3 HTML Checker result for Home](/assets/images/home-html-checker.jpg)
@@ -94,10 +93,16 @@ Visitors will find information about drawing walk events, art classes and drink 
 </details>
 
 <details>
-
-<summary>Home</summary>
+<summary>Artwork</summary>
 
 ![W3 HTML Checker result for Artwork](/assets/images/artwork-html-checker.jpg)
+
+</details>
+
+<details>
+<summary>Enrollment</summary>
+
+![W3 HTML Checker result for Enrollment](/assets/images/enrollment-html-checker.jpg)
 
 </details>
 
