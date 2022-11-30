@@ -83,8 +83,28 @@ Visitors will find information about drawing walk events, art classes and drink 
 - The site has been tested to work with the following web browsers: Safari, Chrome and Firefox
 - Love Art website displays as intended for all screen sizes when tested with Google Chrome dev tools pre-configured device formats. When the browser window is adjusted manually from maximum to smallest width, all elements display as intended.
 - Manual testing of the site was successful on the following devices: iPhone 12, iPad Air (3rd generation), iPad Air 2 and iMac 27".
-- Further tests were carried out using Chrome dev tools (toggle device tool bar) for the following devices (see screenshots below): iPhone SE
+- Further tests were carried out using Chrome dev tools (toggle device tool bar) for the following devices (see screenshots below): 
 
+<details>
+<summary>iPhone SE</summary>
+
+![Chrome Dev Tools iPhone SE](/assets/images/iphonese.jpg)
+
+</details>
+
+<details>
+<summary>Samsung Galaxy S8+</summary>
+
+![Chrome Dev Tools Samsung Galaxy S8+](/assets/images/galaxys8.jpg)
+
+</details>
+
+<details>
+<summary>Surface Pro 7</summary>
+
+![Chrome Dev Tools Samsung Galaxy S8+](/assets/images/surfacepro7.jpg)
+
+</details>
 
 ### HTML Validation
 - [W3 HTML Checker](https://validator.w3.org/nu/#textarea) was used repeatedly throughout the build of Love Art website to test all markup.
