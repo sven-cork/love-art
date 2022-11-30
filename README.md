@@ -16,12 +16,16 @@ Visitors will find information about drawing walk events, art classes and drink 
   - [Home Page](#home-page)
   - [Artwork](#artwork)
   - [Enrollment](#enrollment)
-
-- Testing
-  - Validation
-  - Responsiveness
-  - Manual testing
-- Credits
+- [Technologies Utilised](#technologies-utilised)
+- [Testing](#testing)
+- [Validation](#validation)
+  - [HTML Validation](#html-validation)
+  - [CSS Validation](#css-validation)
+- [Performance/Accessibility](#performanceaccessibility)
+  - [Lighthouse Desktop version test outcome](#lighthouse-desktop-version-test-outcome)
+  - [Lighthouse Mobile version test outcome](#lighthouse-mobile-version-test-outcome)
+- [Deployment](#deployment)
+- [Credits](#credits)
 
 ### Features
 -------------------------------------------------------------------------------------------------------------------------------------------
@@ -77,6 +81,18 @@ Visitors will find information about drawing walk events, art classes and drink 
 
   ![Screenshot of Enrollment map location](/assets/images/map-location.jpg)
 
+## Technologies Utilised
+-------------------------------------------------------------------------------------------------------------------------------------------
+- [Google Fonts](https://fonts.google.com/) was used to import fonts: Quicksand, Tangerine and Xanh.
+- [Fontawesome](https://fonts.google.com/) was used for social media icons in the Footer.
+- [Google Maps](maps.google.com) was used for maps iFrames on the Enroll page.
+- [TinyPNG](https://tinypng.com/) was used to compress jpeg images.
+- Preview.app for macOS was used to re-size images used with Love Art.
+- [GitPod](https://gitpod.io/) was used to code HTML and CSS.
+
+
+
+
 ## Testing
 -------------------------------------------------------------------------------------------------------------------------------------------
 - The enrollment form works validating successfully with Code Institue formdump.
@@ -105,6 +121,9 @@ Visitors will find information about drawing walk events, art classes and drink 
 ![Chrome Dev Tools Samsung Galaxy S8+](/assets/images/surfacepro7.jpg)
 
 </details>
+
+## Validation
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 ### HTML Validation
 - [W3 HTML Checker](https://validator.w3.org/nu/#textarea) was used repeatedly throughout the build of Love Art website to test all markup.
@@ -143,7 +162,8 @@ Visitors will find information about drawing walk events, art classes and drink 
 
 </details>
 
-### Performance/Accessibility 
+## Performance/Accessibility 
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 Google Chrome Developer Tools Lighthouse feature was used to test Performance and Accessibility. 
 For the desktop version of Lighthouse a score over 90% were achieved for all pages and test categories. 
@@ -195,9 +215,19 @@ For the mobile version of Lighthouse all pages apart from Enrollment received a 
 
 </details>
 
-Deployment
+## Deployment
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-Credits
+- Love Art was deployed via GitHub Pages. Please see deployment steps below:
+  - In the GitHub repository 'love-art', navigate to the Settings tab.
+  - From the 'Code and automation' section select 'Pages'.
+  - From the 'Branch' section select 'Main' and save.
+  - A live link is provided at the top of 'Pages'. The live link can be accessed here - [Love Art](https://sven-cork.github.io/love-art/).  
+
+
+
+## Credits
+-------------------------------------------------------------------------------------------------------------------------------------------
   Media
   Content
       
