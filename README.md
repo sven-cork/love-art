@@ -10,6 +10,7 @@ Visitors will find information about drawing walk events, art classes and drink 
 ![Love Art displayed in Am I Responsive Website (https://ui.dev/amiresponsive?url=https://sven-cork.github.io/love-art)](/assets/images/responsive-website2.jpg)
 
 ## Table of contents
+
 - [Features](#features)
   - [Navigation](#navigation)
   - [Footer](#footer)
@@ -27,10 +28,9 @@ Visitors will find information about drawing walk events, art classes and drink 
 - [Deployment](#deployment)
 - [Credits](#credits)
 
-### Features
--------------------------------------------------------------------------------------------------------------------------------------------
+## Features
 
-- #### Navigation 
+- ### Navigation 
   - The community logo "LOVE ART" is displayed in the top left corner of navigation.  
   - The navigation bar is displayed on all pages.
   - Links to all pages are located on left hand side for screen width above 1050px. For smaller screen sizes links drop below the Love Art logo.
@@ -40,7 +40,7 @@ Visitors will find information about drawing walk events, art classes and drink 
   ![Screenshot of Love Art navigation bar](/assets/images/navigation.jpg)
       
 
-- #### Footer
+- ### Footer
   - The footer contains social media links for Facebook, Twitter and Instagram.
   - The links are stylised icons from Font Awesome.
   - The links are displayed on all pages for easy navigation.
@@ -49,7 +49,7 @@ Visitors will find information about drawing walk events, art classes and drink 
   ![Screenshot of Love Art footer](/assets/images/footer.jpg)
   
 
-- #### Home Page
+- ### Home Page
   - The home page contains a hero image displaying a paing palette with colours and brush, aligning with the theme of this website.
   - In the bottom right corner is a small overlay with Love Art name and slogan. The background color is matched to the overall color 
     style of the hero image.
@@ -66,12 +66,12 @@ Visitors will find information about drawing walk events, art classes and drink 
   ![Screenshot of Home page feedback section](/assets/images/feedback.jpg)
 
 
-- #### Artwork
+- ### Artwork
   - The Artwork page contains a gallery of art pieces created by Love Art community members.
 
   ![Screenshot of Artwork gallery](/assets/images/gallery.jpg)
 
-- #### Enrollment
+- ### Enrollment
   - The Enrollment page features a form with fields for visitors to enter emaild address, first and last name.
 
   ![Screenshot of Enrollment form](/assets/images/enrollment-form.jpg)
@@ -82,7 +82,7 @@ Visitors will find information about drawing walk events, art classes and drink 
   ![Screenshot of Enrollment map location](/assets/images/map-location.jpg)
 
 ## Technologies Utilised
--------------------------------------------------------------------------------------------------------------------------------------------
+
 - [Google Fonts](https://fonts.google.com/) was used to import fonts: Quicksand, Tangerine and Xanh.
 - [Fontawesome](https://fonts.google.com/) was used for social media icons in the Footer.
 - [Google Maps](maps.google.com) was used for maps iFrames on the Enroll page.
@@ -94,7 +94,7 @@ Visitors will find information about drawing walk events, art classes and drink 
 
 
 ## Testing
--------------------------------------------------------------------------------------------------------------------------------------------
+
 - The enrollment form works validating successfully with Code Institue formdump.
 - The site has been tested to work with the following web browsers: Safari, Chrome and Firefox
 - Love Art website displays as intended for all screen sizes when tested with Google Chrome dev tools pre-configured device formats. When the browser window is adjusted manually from maximum to smallest width, all elements display as intended.
@@ -123,7 +123,6 @@ Visitors will find information about drawing walk events, art classes and drink 
 </details>
 
 ## Validation
--------------------------------------------------------------------------------------------------------------------------------------------
 
 ### HTML Validation
 - [W3 HTML Checker](https://validator.w3.org/nu/#textarea) was used repeatedly throughout the build of Love Art website to test all markup.
@@ -163,7 +162,6 @@ Visitors will find information about drawing walk events, art classes and drink 
 </details>
 
 ## Performance/Accessibility 
--------------------------------------------------------------------------------------------------------------------------------------------
 
 Google Chrome Developer Tools Lighthouse feature was used to test Performance and Accessibility. 
 For the desktop version of Lighthouse a score over 90% were achieved for all pages and test categories. 
@@ -216,7 +214,6 @@ For the mobile version of Lighthouse all pages apart from Enrollment received a 
 </details>
 
 ## Deployment
--------------------------------------------------------------------------------------------------------------------------------------------
 
 - Love Art was deployed via GitHub Pages. Please see deployment steps below:
   - In the GitHub repository 'love-art', navigate to the Settings tab.
@@ -227,7 +224,7 @@ For the mobile version of Lighthouse all pages apart from Enrollment received a 
 
 
 ## Credits
--------------------------------------------------------------------------------------------------------------------------------------------
+
   Media
   Content
       
