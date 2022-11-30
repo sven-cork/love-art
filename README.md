@@ -143,9 +143,21 @@ Visitors will find information about drawing walk events, art classes and drink 
 
 </details>
 
+### Performance/Accessibility 
+
+- Google Chrome Developer Tools Lighthouse feature was used to test Performance and Accessibility which achieved over 90% for all pages.
 
 
+<details>
+<summary>Home</summary>
 
+![Chrome Dev Tools Lighthouse output](/assets/images/home-lighthouse.jpg)
+
+</details>
+
+Deployment
+
+Credits
       
 Testing
       Validators
