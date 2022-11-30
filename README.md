@@ -145,8 +145,11 @@ Visitors will find information about drawing walk events, art classes and drink 
 
 ### Performance/Accessibility 
 
-- Google Chrome Developer Tools Lighthouse feature was used to test Performance and Accessibility which achieved over 90% for all pages.
+Google Chrome Developer Tools Lighthouse feature was used to test Performance and Accessibility. 
+For the desktop version of Lighthouse a score over 90% were achieved for all pages and test categories. 
+For the mobile version of Lighthouse all pages apart from Enrollment received a score above 90%. The Enrollment page received an inital score in the 70% range. Lighthouse Opportunity section recommended optimising the size for image 'enrollment.jpeg' (700Kb). Using TinyPNG service 'enrollment.jpeg' was compressed to 400Kb and subsequent re-run of Lighthouse Mobile test achieved 82% performance score.
 
+### Lighthouse Desktop version test outcome
 
 <details>
 <summary>Home</summary>
@@ -166,6 +169,29 @@ Visitors will find information about drawing walk events, art classes and drink 
 <summary>Enrollment</summary>
 
 ![Chrome Dev Tools Lighthouse output](/assets/images/enrollment-lighthouse.jpg)
+
+</details>
+
+### Lighthouse Mobile version test outcome
+
+<details>
+<summary>Home</summary>
+
+![Chrome Dev Tools Lighthouse output](/assets/images/home-lighthouse-mobile.jpg)
+
+</details>
+
+<details>
+<summary>Artwork</summary>
+
+![Chrome Dev Tools Lighthouse output](/assets/images/artwork-lighthouse-mobile.jpg)
+
+</details>
+
+<details>
+<summary>Enrollment</summary>
+
+![Chrome Dev Tools Lighthouse output](/assets/images/enrollment-lighthouse-mobile.jpg)
 
 </details>
 
