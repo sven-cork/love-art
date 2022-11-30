@@ -7,7 +7,7 @@ a gallery to enjoy member creations.
 
 Visitors will find information about drawing walk events, art classes and drink draw gatherings. Meeting times and location with embedded maps are provided.
 
-![Love Art displayed in Am I Responsive Website (https://ui.dev/amiresponsive?url=https://sven-cork.github.io/love-art)](/assets/images/responsive-website.jpg)
+![Love Art displayed in Am I Responsive Website (https://ui.dev/amiresponsive?url=https://sven-cork.github.io/love-art)](/assets/images/responsive-website2.jpg)
 
 ## Table of contents
 - [Features](#features)
@@ -155,22 +155,25 @@ Visitors will find information about drawing walk events, art classes and drink 
 
 </details>
 
+<details>
+<summary>Artwork</summary>
+
+![Chrome Dev Tools Lighthouse output](/assets/images/artwork-lighthouse.jpg)
+
+</details>
+
+<details>
+<summary>Enrollment</summary>
+
+![Chrome Dev Tools Lighthouse output](/assets/images/enrollment-lighthouse.jpg)
+
+</details>
+
 Deployment
 
 Credits
+  Media
+  Content
       
-Testing
-      Validators
-      HMTL
-      CSS
-      Lighthouse
-
-1. Love art intro and what it is about.
-
-2. Screenshots from Am I Responsive (https://ui.dev/amiresponsive) demonstrating site on different sized devices.
-
-3. Feature description of all main sections of all site pages including screenshots. Comment what the feature offers and how it benefits
-the user.
-
 
 
