@@ -57,7 +57,7 @@ Visitors will find information about drawing walk events, art classes and drink 
   
   ![Screenshot of Home page Hero Image](/assets/images/hero-image-readme.jpg)
 
-  - In the middle of the Home page there are three separate sections advertising the following activites: "Drawing Walks", "Group Events" and "Quiz of the month".
+  - In the middle of the Home page there are three separate sections advertising the following activites: "Drawing Walks", "Group Events" and an invitation to learn painting and drawing.
 
   ![Screenshot of Home page events section](/assets/images/home-page-events2.jpg)
 
@@ -72,7 +72,7 @@ Visitors will find information about drawing walk events, art classes and drink 
   ![Screenshot of Artwork gallery](/assets/images/gallery.jpg)
 
 - ### Enrollment
-  - The Enrollment page features a form with fields for visitors to enter emaild address, first and last name.
+  - The Enrollment page features a form with fields for visitors to enter email address, first and last name.
 
   ![Screenshot of Enrollment form](/assets/images/enrollment-form.jpg)
 
@@ -99,7 +99,8 @@ Visitors will find information about drawing walk events, art classes and drink 
 - The site has been tested to work with the following web browsers: Safari, Chrome and Firefox
 - Love Art website displays as intended for all screen sizes when tested with Google Chrome dev tools pre-configured device formats. When the browser window is adjusted manually from maximum to smallest width, all elements display as intended.
 - Manual testing of the site was successful on the following devices: iPhone 12, iPad Air (3rd generation), iPad Air 2 and iMac 27".
-- Further tests were carried out using Chrome dev tools (toggle device tool bar) for the following devices (see screenshots below): 
+
+Further tests were carried out using Chrome dev tools (toggle device tool bar) for the following devices (see screenshots below): 
 
 <details>
 <summary>iPhone SE</summary>
