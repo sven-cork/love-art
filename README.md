@@ -7,7 +7,7 @@ a gallery to enjoy member creations.
 
 Visitors will find information about drawing walk events, art classes and drink draw gatherings. Meeting times and location with embedded maps are provided.
 
-![Love Art displayed in Am I Responsive Website (https://ui.dev/amiresponsive?url=https://sven-cork.github.io/love-art)](/assets/images/responsive-website2.jpg)
+![Love Art displayed in Am I Responsive Website (https://ui.dev/amiresponsive?url=https://sven-cork.github.io/love-art)](/assets/images/responsive-website3.jpg)
 
 ## Table of contents
 
