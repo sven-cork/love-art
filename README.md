@@ -167,6 +167,8 @@ Google Chrome Developer Tools Lighthouse feature was used to test Performance an
 For the desktop version of Lighthouse a score over 90% were achieved for all pages and test categories. 
 For the mobile version of Lighthouse all pages apart from Enrollment received a score above 90%. The Enrollment page received an inital score in the 70% range. Lighthouse Opportunity section recommended optimising the size for image 'enrollment.jpeg' (700Kb). Using TinyPNG service 'enrollment.jpeg' was compressed to 400Kb and subsequent re-run of Lighthouse Mobile test achieved 82% performance score.
 
+One concern was for the readability of the text located on the Home page on the left hand side in the middle section advertising Drawing Walks. The background is not uniformly dark. However adding dropshadow to the text resolved this concern.
+
 ### Lighthouse Desktop version test outcome
 
 <details>
@@ -234,11 +236,11 @@ enrollment.jpeg (original name: pexels-hazy-mokhlas-47482.jpg) - by Hazy Mokhlas
 hero-image6.jpg (original name: pexels-daian-gan-102127.jpg) - by Daian Gan<br>
 paint-group-full.jpg (original name: pexels-bruno-bueno-3861423.jpg) - by Bruno Bueno<br>
 
-Images located on the Artwork page were created by the developer of Love Art.
+Images located on the Artwork page belongs to the developer of Love Art.
 
 ### Other
 
-Design style for hero-image with cover text mathing in background color was influenced from Code Institute Love Running project.
+Design style for hero-image with cover text mathing to the dominant tone and background color was influenced from Code Institute Love Running project.
 
 Inspiration for navigation bar with vertical dividers was taken from [Jill Poyerd Fine Art](https://www.jillpoyerd.com/)
       
