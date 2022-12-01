@@ -225,8 +225,22 @@ For the mobile version of Lighthouse all pages apart from Enrollment received a 
 
 ## Credits
 
-  Media
-  Content
+### Images
+
+Images aquired from [Pexels](#pexels.com)
+
+drawing-walk-full.jpg/drawing-walk-full2.jpg (original name: pexels-ekaterina-bolovtsova-5037075.jpg) - by Ekaterine Bolovtsova
+enrollment.jpeg (original name: pexels-hazy-mokhlas-47482.jpg) - by Hazy Mokhlas
+hero-image6.jpg (original name: pexels-daian-gan-102127.jpg) - by Daian Gan
+paint-group-full.jpg (original name: pexels-bruno-bueno-3861423.jpg) - by Bruno Bueno 
+
+Images located on the Artwork page were created by the developer of Love Art.
+
+### Other
+
+Design style for hero-image with cover text mathing in background color was influenced from Code Institute Love Running project.
+
+Inspiration for navigation bar with vertical dividers was taken from [Jill Poyerd Fine Art](https://www.jillpoyerd.com/)
       
 
 
