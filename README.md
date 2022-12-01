@@ -84,8 +84,8 @@ Visitors will find information about drawing walk events, art classes and drink 
 ## Technologies Utilised
 
 - [Google Fonts](https://fonts.google.com/) was used to import fonts: Quicksand, Tangerine and Xanh.
-- [Fontawesome](https://fonts.google.com/) was used for social media icons in the Footer.
-- [Google Maps](maps.google.com) was used for maps iFrames on the Enroll page.
+- [Fontawesome](https://fontawesome.com/) was used for social media icons in the Footer.
+- [Google Maps](https://maps.google.com) was used for maps iFrames on the Enroll page.
 - [TinyPNG](https://tinypng.com/) was used to compress jpeg images.
 - Preview.app for macOS was used to re-size images used with Love Art.
 - [GitPod](https://gitpod.io/) was used to code HTML and CSS.
