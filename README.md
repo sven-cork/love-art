@@ -229,10 +229,10 @@ For the mobile version of Lighthouse all pages apart from Enrollment received a 
 
 Images aquired from [Pexels](#pexels.com)
 
-drawing-walk-full.jpg/drawing-walk-full2.jpg (original name: pexels-ekaterina-bolovtsova-5037075.jpg) - by Ekaterine Bolovtsova
-enrollment.jpeg (original name: pexels-hazy-mokhlas-47482.jpg) - by Hazy Mokhlas
-hero-image6.jpg (original name: pexels-daian-gan-102127.jpg) - by Daian Gan
-paint-group-full.jpg (original name: pexels-bruno-bueno-3861423.jpg) - by Bruno Bueno 
+drawing-walk-full.jpg/drawing-walk-full2.jpg (original name: pexels-ekaterina-bolovtsova-5037075.jpg) - by Ekaterine Bolovtsova<br>
+enrollment.jpeg (original name: pexels-hazy-mokhlas-47482.jpg) - by Hazy Mokhlas<br>
+hero-image6.jpg (original name: pexels-daian-gan-102127.jpg) - by Daian Gan<br>
+paint-group-full.jpg (original name: pexels-bruno-bueno-3861423.jpg) - by Bruno Bueno<br>
 
 Images located on the Artwork page were created by the developer of Love Art.
 
