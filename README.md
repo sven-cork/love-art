@@ -59,7 +59,7 @@ Visitors will find information about drawing walk events, art classes and drink 
 
   - In the middle of the Home page there are three separate sections advertising the following activites: "Drawing Walks", "Group Events" and "Quiz of the month".
 
-  ![Screenshot of Home page events section](/assets/images/home-page-events.jpg)
+  ![Screenshot of Home page events section](/assets/images/home-page-events2.jpg)
 
   - At the end of the Home page there is a section displaying feedback from Art Lover event participants.
 
@@ -239,6 +239,10 @@ Images aquired from [Pexels](#pexels.com)
 Images located on the Artwork page belongs to the developer of Love Art.
 
 ### Other
+
+Icons for social media links are from [Fontawesome](https://fontawesome.com/).
+
+Fonts used throughout Love Art website were imported from [Google Fonts](https://fonts.google.com/).
 
 Design style for hero-image with cover text mathing to the dominant tone and background color was influenced from Code Institute Love Running project.
 
