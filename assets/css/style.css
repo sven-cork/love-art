@@ -13,13 +13,6 @@ body {
     background-color: rgb(255, 253, 251);
 }
 
-/*body p {
-    font-family: Tangerine;
-    font-size: 200%;
-}*/
-
-/*headings*/
-
 h1, h2 {
     font-family: Xanh, sans-serif;
     text-transform: uppercase;
@@ -162,6 +155,7 @@ h1, h2 {
 }
 
 /*Footer section*/
+
 footer {
     height: 75px;
 }
@@ -327,7 +321,6 @@ footer i {
     height: 100%;
     flex-direction: column;
     position: relative;
-    
 }
 
 .location-div-upper {
@@ -389,8 +382,8 @@ footer i {
 
 }
 
-
 /*For smaller screen sizes 750 pixels and below*/ 
+
 @media screen and (max-width: 750px) {
 
     #nav-menu {

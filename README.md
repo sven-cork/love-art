@@ -231,10 +231,10 @@ One concern was for the readability of the text located on the Home page on the 
 
 Images aquired from [Pexels](#pexels.com)
 
-drawing-walk-full.jpg/drawing-walk-full2.jpg (original name: pexels-ekaterina-bolovtsova-5037075.jpg) - by Ekaterine Bolovtsova<br>
-enrollment.jpeg (original name: pexels-hazy-mokhlas-47482.jpg) - by Hazy Mokhlas<br>
-hero-image6.jpg (original name: pexels-daian-gan-102127.jpg) - by Daian Gan<br>
-paint-group-full.jpg (original name: pexels-bruno-bueno-3861423.jpg) - by Bruno Bueno<br>
+1. drawing-walk-full.jpg/drawing-walk-full2.jpg (original name: pexels-ekaterina-bolovtsova-5037075.jpg) - by Ekaterine Bolovtsova<br>
+2. enrollment.jpeg (original name: pexels-hazy-mokhlas-47482.jpg) - by Hazy Mokhlas<br>
+3. hero-image6.jpg (original name: pexels-daian-gan-102127.jpg) - by Daian Gan<br>
+4. paint-group-full.jpg (original name: pexels-bruno-bueno-3861423.jpg) - by Bruno Bueno<br>
 
 Images located on the Artwork page belongs to the developer of Love Art.
 
@@ -242,7 +242,7 @@ Images located on the Artwork page belongs to the developer of Love Art.
 
 Design style for hero-image with cover text mathing to the dominant tone and background color was influenced from Code Institute Love Running project.
 
-Inspiration for navigation bar with vertical dividers was taken from [Jill Poyerd Fine Art](https://www.jillpoyerd.com/)
+The [Jill Poyerd Fine Art](https://www.jillpoyerd.com/) website provided inspiration for the navigation bar with vertical dividers.
       
 
 
